@@ -2,7 +2,7 @@
 
 This application reads a large file of integers and uses multiple threads to find all unique numbers. Each thread processes a portion of the file independently and contributes to a global set of unique values.
 
-## 🛠 Build Instructions
+## Build Instructions
 
 ### Requirements
 - C++17
