@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/MultiThreadUniqueNumbers/build",
+  "command": "/usr/bin/g++    -g   -pthread -std=gnu++17 -o CMakeFiles/MultiThreadedUniqueNumbers.dir/main.cpp.o -c /workspaces/MultiThreadUniqueNumbers/main.cpp",
+  "file": "/workspaces/MultiThreadUniqueNumbers/main.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/workspaces/MultiThreadUniqueNumbers/build/CMakeFiles/rebuild_cache.dir
+/workspaces/MultiThreadUniqueNumbers/build/CMakeFiles/edit_cache.dir
+/workspaces/MultiThreadUniqueNumbers/build/CMakeFiles/MultiThreadedUniqueNumbers.dir

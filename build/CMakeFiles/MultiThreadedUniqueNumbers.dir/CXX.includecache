@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/MultiThreadUniqueNumbers/main.cpp
+iostream
+-
+fstream
+-
+thread
+-
+vector
+-
+set
+-
+mutex
+-
+sstream
+-
+cstdlib
+-
+filesystem
+-
+chrono
+-
+
